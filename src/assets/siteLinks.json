@@ -23,10 +23,10 @@
     "icon": "LaptopCode",
     "name": "狐唔器状态",
     "link": "https://status.moeuu.cn/"
-  }
+  },
     {
     "icon": "Account",
     "name": "站点监测",
     "link": "https://uptime.moeuu.cn/"
-  },
+  }
 ]
