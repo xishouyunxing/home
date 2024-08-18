@@ -106,7 +106,7 @@ watch(
       font-family: "Pacifico-Regular";
 
       .bg {
-        font-size: 3rem;
+        font-size: 46px;
       }
 
       .sm {
