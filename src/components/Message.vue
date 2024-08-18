@@ -124,7 +124,7 @@ watch(
       .name {
         height: 128px;
         .bg {
-          font-size: 3rem;
+          font-size: 46px;
         }
       }
     }
